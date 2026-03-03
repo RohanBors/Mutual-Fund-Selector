@@ -8,7 +8,7 @@ A structured, factor-by-factor decision framework for evaluating Indian mutual f
 
 ## 🌐 Live Demo
 
-👉 **[Try it here](https://mutual-funds-selector-sajq.vercel.app/)** *(update this after deploying)*
+👉 **[Try it here](https://mutual-funds-selector-sajq.vercel.app/)** 
 
 ---
 
