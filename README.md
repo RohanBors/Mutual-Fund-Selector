@@ -8,7 +8,7 @@ A structured, factor-by-factor decision framework for evaluating Indian mutual f
 
 ## 🌐 Live Demo
 
-👉 **[Try it here](https://your-vercel-url.vercel.app)** *(update this after deploying)*
+👉 **[Try it here](https://mutual-funds-selector-sajq.vercel.app/)** *(update this after deploying)*
 
 ---
 
@@ -71,51 +71,6 @@ npm start
 ```
 
 The app will open at **http://localhost:3000** in your browser.
-
----
-
-## 🌍 Deploying to Vercel (Free — Recommended)
-
-Vercel is the easiest way to get a shareable public URL. Takes about 3 minutes.
-
-### Step 1 — Push your code to GitHub
-```bash
-git init
-git add .
-git commit -m "Initial commit"
-git branch -M main
-git remote add origin https://github.com/YOUR_USERNAME/mf-selector.git
-git push -u origin main
-```
-
-### Step 2 — Deploy on Vercel
-1. Go to [vercel.com](https://vercel.com) and sign in with GitHub
-2. Click **"Add New Project"**
-3. Select your `mf-selector` repository
-4. Vercel auto-detects Create React App — just click **"Deploy"**
-5. In ~60 seconds you get a live URL like `mf-selector.vercel.app`
-
-### Step 3 — Update README
-Paste your Vercel URL into the Live Demo link at the top of this README.
-
-Every future `git push` to `main` will **auto-redeploy** — no manual steps needed.
-
----
-
-## 🏗️ Alternative: Deploy to GitHub Pages
-
-```bash
-# 1. Install gh-pages
-npm install --save-dev gh-pages
-
-# 2. Add to package.json scripts:
-#    "predeploy": "npm run build",
-#    "deploy": "gh-pages -d build"
-# Also add: "homepage": "https://YOUR_USERNAME.github.io/mf-selector"
-
-# 3. Deploy
-npm run deploy
-```
 
 ---
 
