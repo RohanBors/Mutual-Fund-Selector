@@ -1,4 +1,4 @@
-import MutualFundDecisionTree from './MutualFundDecisionTree';
+import MutualFundDecisionTree from './mutual_fund_decision_tree';
 
 function App() {
   return <MutualFundDecisionTree />;
